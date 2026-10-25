@@ -1,0 +1,17 @@
+# Virtual environment
+iterativeflows/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secrets (use .env.example as a template)
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
